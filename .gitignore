@@ -1,3 +1,5 @@
 data/flat_data.npy
 data/flat_data_extra.npy
 data/flat_names.npy
+.ipynb_checkpoints/
+data/flat_names_extra.npy
